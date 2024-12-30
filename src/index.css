@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --lupa: url("./components/Searchbar/assets/search.svg");
+  --prompt: "Prompt", serif;
+}
